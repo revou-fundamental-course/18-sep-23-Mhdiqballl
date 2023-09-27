@@ -43,7 +43,7 @@ body{
     flex-direction: column;
     display: flex;
     box-sizing: border-box;
-    width: 50%;
+    width: 100%;
 }
 
 .title-content{
